@@ -1,0 +1,7 @@
+
+
+name: open.blas
+
+inc:  ./inst/include
+path: ./inst/lib
+lib:  openblas
